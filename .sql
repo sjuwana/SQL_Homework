@@ -10,7 +10,7 @@
 -- SELECT Title, Director FROM Movies;
 
 -- 1.4 Find the title and year of each film
--- SELECT Title, Director FROM Movies;
+-- SELECT Title, Year FROM Movies;
 
 -- 1.5 Find all the information about each film
 -- SELECT * FROM Movies;
