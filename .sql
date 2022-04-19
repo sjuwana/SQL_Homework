@@ -66,7 +66,7 @@
 -- SELECT * FROM North_american_cities WHERE Country = "United States" ORDER BY Latitude DESC;
 
 -- 5.3 List all the cities west of Chicago, ordered from west to east
--- SELECT * FROM North_american_cities WHERE Longitude < -87.69 ORDER BY Longitude ASC;
+-- SELECT * FROM North_american_cities WHERE Longitude < -87.629798 ORDER BY Longitude ASC;
 
 -- 5.4 List the two largest cities in Mexico (by population)
 -- SELECT * FROM North_american_cities WHERE Country LIKE "Mexico" ORDER BY Population DESC LIMIT 2;
